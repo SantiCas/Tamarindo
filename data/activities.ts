@@ -718,7 +718,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Arena de paintball multiterreno de 25×50 m en plena selva de Guanacaste. Jugá entre obstáculos naturales con modos de juego como Captura la Bandera o Terminator (1 vs todos). Equipo profesional incluido: marcadoras Tippmann Stormer, tanques de aire y máscaras certificadas. Duración ~1h 30min. Ideal para grupos.",
     coverImage:
-      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&q=80",
+      "/paintball-pinilla.png",
     infoLink:
       "https://instagram.com/pinillapaintball",
     mapLink:
