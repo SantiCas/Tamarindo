@@ -708,6 +708,31 @@ export const ACTIVITIES: Activity[] = [
     category: "gastronomía",
     tags: ["restaurante", "mariscos", "fusión", "vista al mar", "cena"],
   },
+
+  // ──────────────────────────────────────────────────────────────────────────
+  // AVENTURA EXTRA
+  // ──────────────────────────────────────────────────────────────────────────
+  {
+    id: "pinilla-paintball",
+    title: "Paintball en la selva – Pinilla",
+    description:
+      "Arena de paintball multiterreno de 25×50 m en plena selva de Guanacaste. Jugá entre obstáculos naturales con modos de juego como Captura la Bandera o Terminator (1 vs todos). Equipo profesional incluido: marcadoras Tippmann Stormer, tanques de aire y máscaras certificadas. Duración ~1h 30min. Ideal para grupos.",
+    coverImage:
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&q=80",
+    infoLink:
+      "https://instagram.com/pinillapaintball",
+    mapLink:
+      "https://www.google.com/maps/search/?api=1&query=Pinilla+Paintball+Tamarindo+Costa+Rica",
+    contact: {
+      type: "instagram",
+      value: "https://instagram.com/pinillapaintball",
+      label: "@pinillapaintball",
+    },
+    location: "Pinilla, Guanacaste",
+    distance: "25 min en carro",
+    category: "aventura",
+    tags: ["paintball", "adrenalina", "grupos", "selva", "equipo"],
+  },
 ];
 
 export const CATEGORIES = [
