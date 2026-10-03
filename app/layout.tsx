@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import { Geist } from "next/font/google";
+import { Inter } from "next/font/google";
 import "./globals.css";
 
-const geist = Geist({ subsets: ["latin"], variable: "--font-geist-sans" });
+const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
 export const metadata: Metadata = {
   title: "Tamarindo 🌴 — Votación Familiar",
@@ -15,8 +15,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="es" className={geist.variable}>
-      <body className="bg-amber-50 min-h-screen text-gray-900 antialiased">
+    <html lang="es" className={inter.variable}>
+      <body className={`${inter.className} bg-amber-50 min-h-screen text-gray-900 antialiased`}>
         {children}
       </body>
     </html>
