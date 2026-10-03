@@ -28,7 +28,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://nativeswaycostarica.com/wp-content/uploads/2024/05/Guachipelin-Volcano-Adventure-Combo-1100x1100.jpg",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Natives+Way+ATV+Tamarindo+Costa+Rica",
+      "https://nativeswaycostarica.com",
     mapLink:
       "https://www.google.com/maps/search/?api=1&query=Natives+Way+ATV+Tamarindo+Costa+Rica",
     contact: {
@@ -49,7 +49,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://www.skylinecanopytour.com/home/cover.webp",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Tamarindo+Canopy+Tour+Costa+Rica",
+      "https://www.skylinecanopytour.com",
     mapLink:
       "https://www.google.com/maps/search/?api=1&query=Canopy+Tour+Tamarindo+Costa+Rica",
     contact: {
@@ -70,7 +70,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://www.guachipelin.com/wp-content/uploads/sites/2085/2018/12/Rio-Negro-Tubing-Adventure-image-1.jpg",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Hacienda+Guachipelin+Rincon+de+la+Vieja",
+      "https://www.guachipelin.com",
     mapLink:
       "https://www.google.com/maps/place/Hacienda+Guachipel%C3%ADn/@10.7779,-85.3508,15z",
     contact: {
@@ -91,7 +91,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Estero+Tamarindo+Costa+Rica",
+      "https://nativeswaycostarica.com",
     mapLink:
       "https://www.google.com/maps/place/Estero+Tamarindo/@10.299,-85.841,14z",
     contact: {
@@ -112,7 +112,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://iguanasurf.net/wp-content/uploads/2026/08/ocean-wide.webp",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Stand+Up+Paddle+Tamarindo+Costa+Rica",
+      "https://iguanasurf.net",
     mapLink:
       "https://www.google.com/maps/place/Playa+Tamarindo/@10.2993,-85.8449,14z",
     contact: {
@@ -133,7 +133,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://iguanasurf.net/wp-content/uploads/2026/08/surf-camp-v18-c88af435.jpg",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Iguana+Surf+Tamarindo+Costa+Rica",
+      "https://iguanasurf.net",
     mapLink:
       "https://www.google.com/maps/place/Playa+Tamarindo/@10.2993,-85.8449,14z",
     contact: {
@@ -154,7 +154,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?w=800&q=80",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Islas+Catalinas+Guanacaste+Costa+Rica",
+      "https://www.scuba-dive-costa-rica.com",
     mapLink:
       "https://www.google.com/maps/place/Islas+Catalinas/@10.5674,-85.9067,13z",
     contact: {
@@ -175,7 +175,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://marlindelrey.com/wp-content/uploads/2025/05/I7A9550.webp",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Marina+Flamingo+Costa+Rica",
+      "https://instagram.com/marinaflamingocr",
     mapLink:
       "https://www.google.com/maps/place/Marina+Flamingo/@10.4339,-85.7913,15z",
     contact: {
@@ -196,7 +196,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://nativeswaycostarica.com/wp-content/uploads/2021/07/2021-04-24_La_Leona_@JavierMereb_178-scaled-e1625598215684.jpg",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=ATV+tour+Tamarindo+mirador+Guanacaste",
+      "https://nativeswaycostarica.com",
     mapLink:
       "https://www.google.com/maps/search/?api=1&query=ATV+Mirador+Tamarindo+Guanacaste",
     contact: {
@@ -221,7 +221,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=800&q=80",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Rio+Celeste+Parque+Nacional+Volcan+Tenorio",
+      "https://www.sinac.go.cr",
     mapLink:
       "https://www.google.com/maps/place/Tenorio+Volcano+National+Park/@10.7,-84.9833,13z",
     contact: {
@@ -242,7 +242,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://nativeswaycostarica.com/wp-content/uploads/2018/08/Steam-Pot-Rincon-de-la-Vieja-National-Park-Natives-Way-Costa-Rica-Tamarindo-Tours-550x550.jpg",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Sector+Las+Pailas+Rincon+de+la+Vieja",
+      "https://www.guachipelin.com",
     mapLink:
       "https://www.google.com/maps/place/Rincon+de+la+Vieja+National+Park/@10.78,-85.35,13z",
     contact: {
@@ -263,7 +263,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://www.rioperdido.com/thumb/sizeW1920/uploads/2s/cms_image/001/535/060/1535060019_5b7f28334c2a6-thumb.jpg",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Hacienda+Guachipelin+Rincon+de+la+Vieja",
+      "https://www.rioperdido.com",
     mapLink:
       "https://www.google.com/maps/place/Hacienda+Guachipel%C3%ADn/@10.7779,-85.3508,15z",
     contact: {
@@ -284,7 +284,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800&q=80",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Catarata+Llanos+de+Cortes+Bagaces",
+      "https://visitcostarica.com",
     mapLink:
       "https://www.google.com/maps/place/Llanos+de+Cortez+Waterfall/@10.5261,-85.3581,15z",
     contact: {
@@ -305,7 +305,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&q=80",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Playa+Samara+Nicoya+Costa+Rica",
+      "https://visitcostarica.com",
     mapLink:
       "https://www.google.com/maps/place/Playa+Samara/@9.8832,-85.5279,13z",
     contact: {
@@ -330,7 +330,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://images.unsplash.com/photo-1456926631375-92c8ce872def?w=800&q=80",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Centro+de+Rescate+Las+Pumas+Canas+Costa+Rica",
+      "https://www.laspumascr.org",
     mapLink:
       "https://www.google.com/maps/place/Centro+de+Rescate+Las+Pumas/@10.4249,-85.0927,15z",
     contact: {
@@ -351,7 +351,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=800&q=80",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Parque+Nacional+Palo+Verde+Tempisque",
+      "https://nativeswaycostarica.com",
     mapLink:
       "https://www.google.com/maps/place/Palo+Verde+National+Park/@10.35,-85.35,13z",
     contact: {
@@ -372,7 +372,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://www.tamarindoestuary.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-23-at-6.23.31-PM-2.jpeg",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Parque+Nacional+Las+Baulas+Tamarindo",
+      "https://www.tamarindoestuary.com",
     mapLink:
       "https://www.google.com/maps/place/Parque+Nacional+Las+Baulas/@10.3213,-85.8375,14z",
     contact: {
@@ -393,7 +393,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://cdn.zyrosite.com/cdn-ecommerce/store_01M23N35Q8T61X2TBJ4221YWFE/assets/3501e9d6-ca82-463d-8923-233469a81176.jpg",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Playa+Grande+Parque+Las+Baulas+Costa+Rica",
+      "https://sosgrande.org",
     mapLink:
       "https://www.google.com/maps/place/Playa+Grande/@10.3281,-85.8538,14z",
     contact: {
@@ -414,7 +414,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://images.unsplash.com/photo-1607153333879-c174d265f1d2?w=800&q=80",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Refugio+Nacional+Ostional+Costa+Rica",
+      "https://www.sinac.go.cr",
     mapLink:
       "https://www.google.com/maps/place/Ostional+Wildlife+Refuge/@9.9742,-85.6893,14z",
     contact: {
@@ -435,7 +435,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://images.unsplash.com/photo-1444464666168-49d633b86797?w=800&q=80",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Bird+Watching+Tour+Tamarindo+Guanacaste",
+      "https://nativeswaycostarica.com",
     mapLink:
       "https://www.google.com/maps/place/Tamarindo/@10.2993,-85.8449,13z",
     contact: {
@@ -460,7 +460,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://marlindelrey.com/wp-content/uploads/2025/05/Catamaran-Tours-Playa-Tamarindo-image-1.webp",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Marlin+del+Rey+Catamaran+Tamarindo",
+      "https://marlindelrey.com",
     mapLink:
       "https://www.google.com/maps/search/?api=1&query=Marlin+del+Rey+Catamaran+Tamarindo",
     contact: {
@@ -481,7 +481,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://marlindelrey.com/wp-content/uploads/2025/05/ml5.webp",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Marina+Flamingo+Charter+Costa+Rica",
+      "https://marlindelrey.com/private-tours/",
     mapLink:
       "https://www.google.com/maps/place/Marina+Flamingo/@10.4339,-85.7913,15z",
     contact: {
@@ -502,7 +502,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://marlindelrey.com/wp-content/uploads/2025/05/people-swimming-beside-a-boat.webp",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Mirador+Tamarindo+Langosta+Costa+Rica",
+      "https://instagram.com/tamarindocostarica",
     mapLink:
       "https://www.google.com/maps/search/?api=1&query=Mirador+Tamarindo+atardecer",
     contact: {
@@ -523,7 +523,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Playa+Conchal+Guanacaste+Costa+Rica",
+      "https://visitcostarica.com",
     mapLink:
       "https://www.google.com/maps/place/Playa+Conchal/@10.3666,-85.7803,14z",
     contact: {
@@ -544,7 +544,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://images.unsplash.com/photo-1580019542155-247062e19ce4?w=800&q=80",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Playa+Langosta+Tamarindo+Costa+Rica",
+      "https://visitcostarica.com",
     mapLink:
       "https://www.google.com/maps/place/Playa+Langosta/@10.277,-85.8588,14z",
     contact: {
@@ -565,7 +565,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://nativeswaycostarica.com/wp-content/uploads/2018/09/image-1.jpg",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Horseback+Riding+Tamarindo+Guanacaste",
+      "https://nativeswaycostarica.com",
     mapLink:
       "https://www.google.com/maps/search/?api=1&query=Horseback+Riding+Tamarindo+Costa+Rica",
     contact: {
@@ -590,7 +590,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://images.unsplash.com/photo-1570126646281-5ec88111777f?w=800&q=80",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Marina+Flamingo+Restaurante+Costa+Rica",
+      "https://instagram.com/marinaflamingocr",
     mapLink:
       "https://www.google.com/maps/place/Marina+Flamingo/@10.4339,-85.7913,15z",
     contact: {
@@ -611,7 +611,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://static.wixstatic.com/media/77f562_7cf5dd64a9054964a071c40c1c7f4812~mv2.jpeg/v1/fill/w_2500,h_1187,al_c/77f562_7cf5dd64a9054964a071c40c1c7f4812~mv2.jpeg",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Lolas+Restaurant+Playa+Avellanas+Costa+Rica",
+      "https://lolascostarica.com",
     mapLink:
       "https://www.google.com/maps/place/Lola%27s+on+the+Beach/@9.9158,-85.7893,15z",
     contact: {
@@ -632,7 +632,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://images.unsplash.com/photo-1533900298318-6b8da08a523e?w=800&q=80",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Tamarindo+Night+Market+Costa+Rica",
+      "https://instagram.com/tamarindonightmarket",
     mapLink:
       "https://www.google.com/maps/search/?api=1&query=Tamarindo+Night+Market",
     contact: {
@@ -653,7 +653,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=800&q=80",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Cooking+Class+Tamarindo+Costa+Rica",
+      "https://instagram.com/tamarindocookingclass",
     mapLink:
       "https://www.google.com/maps/search/?api=1&query=Cooking+class+Tamarindo+Costa+Rica",
     contact: {
@@ -674,7 +674,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://images.unsplash.com/photo-1442512595331-e89e73853f31?w=800&q=80",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Coffee+Cacao+Tour+Guanacaste+Costa+Rica",
+      "https://instagram.com/cafeguanacastecr",
     mapLink:
       "https://www.google.com/maps/search/?api=1&query=Coffee+Tour+Guanacaste+Costa+Rica",
     contact: {
@@ -695,7 +695,7 @@ export const ACTIVITIES: Activity[] = [
     coverImage:
       "https://pangasbeach.com/wp-content/uploads/2025/10/Photo-by-Raw-Shoots-5-1024x683.jpg",
     infoLink:
-      "https://www.google.com/maps/search/?api=1&query=Pangas+Beach+Club+Tamarindo",
+      "https://pangasbeach.com",
     mapLink:
       "https://www.google.com/maps/search/?api=1&query=Pangas+Beach+Club+Tamarindo",
     contact: {
