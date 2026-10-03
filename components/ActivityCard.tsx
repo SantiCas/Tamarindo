@@ -13,16 +13,18 @@ interface ActivityCardProps {
 
 const CATEGORY_EMOJI: Record<string, string> = {
   aventura: "🏄",
-  playa: "🏖️",
+  naturaleza: "🌋",
+  fauna: "🐢",
+  "panorámicas": "⛵",
   gastronomía: "🍽️",
-  cultura: "🎭",
-  relax: "🧘",
 };
 
 const CONTACT_ICON: Record<string, string> = {
   phone: "📞",
   email: "✉️",
   whatsapp: "💬",
+  instagram: "📸",
+  web: "🌐",
 };
 
 export default function ActivityCard({
@@ -55,7 +57,9 @@ export default function ActivityCard({
       ? `mailto:${activity.contact.value}`
       : activity.contact.type === "whatsapp"
       ? `https://wa.me/${activity.contact.value.replace(/\D/g, "")}`
-      : `tel:${activity.contact.value}`;
+      : activity.contact.type === "phone"
+      ? `tel:${activity.contact.value}`
+      : activity.contact.value; // instagram or web — value is already a URL
 
   return (
     <div
