@@ -25,7 +25,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Recorrido guiado en vehículos de cuatro ruedas por caminos de tierra, fincas rurales, cruces de ríos y puntos panorámicos elevados de la región de Guanacaste.",
     coverImage:
-      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+      "https://nativeswaycostarica.com/wp-content/uploads/2024/05/Guachipelin-Volcano-Adventure-Combo-1100x1100.jpg",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Natives+Way+ATV+Tamarindo+Costa+Rica",
     contact: {
@@ -44,7 +44,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Desplazamiento por cables de acero suspendidos sobre las copas de los árboles y cañones boscosos en parques de aventura especializados.",
     coverImage:
-      "https://images.unsplash.com/photo-1601024445121-e5b82f020549?w=800&q=80",
+      "https://guachipelin.com/wp-content/uploads/sites/2085/2024/09/DJI_20240519162807_0462_D-Enhanced-NR.jpg",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Tamarindo+Canopy+Tour+Costa+Rica",
     contact: {
@@ -63,7 +63,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Navegación fluvial individual a bordo de flotadores especiales a través de tramos de rápidos y corrientes en cañones volcánicos. Operado por Hacienda Guachipelín.",
     coverImage:
-      "https://images.unsplash.com/photo-1530866495561-507c9faab2ed?w=800&q=80",
+      "https://guachipelin.com/wp-content/uploads/sites/2085/2019/09/NK8_1200.jpg",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Hacienda+Guachipelin+Rincon+de+la+Vieja",
     contact: {
@@ -101,7 +101,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Navegación de pie sobre tabla de remo en las aguas de la ría durante las horas de marea alta.",
     coverImage:
-      "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=800&q=80",
+      "https://iguanasurf.net/wp-content/uploads/2026/08/ocean-wide.webp",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Stand+Up+Paddle+Tamarindo+Costa+Rica",
     contact: {
@@ -120,7 +120,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Sesiones de práctica de surf en las rompientes estables de la costa local, guiadas por instructores especializados de Iguana Surf.",
     coverImage:
-      "https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=800&q=80",
+      "https://iguanasurf.net/wp-content/uploads/2026/08/surf-camp-v18-c88af435.jpg",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Iguana+Surf+Tamarindo+Costa+Rica",
     contact: {
@@ -158,7 +158,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Jornada en embarcaciones equipadas para la captura y liberación de especies pelágicas y de pico en el Pacífico norte.",
     coverImage:
-      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80",
+      "https://marlindelrey.com/wp-content/uploads/2025/05/I7A9550.webp",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Marina+Flamingo+Costa+Rica",
     contact: {
@@ -177,7 +177,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Recorrido extendido en vehículos todoterreno por rutas de montaña secundarias para acceder a perspectivas elevadas del paisaje guanacasteco.",
     coverImage:
-      "https://images.unsplash.com/photo-1581093806997-124204d9fa9d?w=800&q=80",
+      "https://nativeswaycostarica.com/wp-content/uploads/2021/07/2021-04-24_La_Leona_@JavierMereb_178-scaled-e1625598215684.jpg",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=ATV+tour+Tamarindo+mirador+Guanacaste",
     contact: {
@@ -219,7 +219,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Recorrido a pie por rutas volcánicas para observar manifestaciones geotérmicas activas: fumarolas, pozas de lodo hirviendo y cráteres.",
     coverImage:
-      "https://images.unsplash.com/photo-1601604561784-fcc9a8adb5db?w=800&q=80",
+      "https://nativeswaycostarica.com/wp-content/uploads/2018/08/Steam-Pot-Rincon-de-la-Vieja-National-Park-Natives-Way-Costa-Rica-Tamarindo-Tours-550x550.jpg",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Sector+Las+Pailas+Rincon+de+la+Vieja",
     contact: {
@@ -238,7 +238,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Inmersión en complejos de piscinas naturales de aguas geotérmicas y aplicación de lodo volcánico mineral en las faldas del Rincón de la Vieja.",
     coverImage:
-      "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=800&q=80",
+      "https://guachipelin.com/wp-content/uploads/sites/2085/2025/05/DSC_6487.jpg",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Hacienda+Guachipelin+Rincon+de+la+Vieja",
     contact: {
@@ -276,7 +276,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Viaje por carretera explorando pueblos costeros, calas de arena blanca y formaciones geográficas de doble media luna en la Península de Nicoya.",
     coverImage:
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+      "https://marlindelrey.com/wp-content/uploads/2025/05/Girls-on-the-bow.webp",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Playa+Samara+Nicoya+Costa+Rica",
     contact: {
@@ -337,7 +337,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Recorrido en embarcación por los manglares de Tamarindo para el avistamiento de aves, reptiles y monos aulladores en su entorno natural.",
     coverImage:
-      "https://images.unsplash.com/photo-1586158291800-2665f07bba79?w=800&q=80",
+      "https://guachipelin.com/wp-content/uploads/sites/2085/2020/07/Pajaros.jpg",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Parque+Nacional+Las+Baulas+Tamarindo",
     contact: {
@@ -417,7 +417,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Navegación a vela por la costa de Guanacaste con paradas para baños en mar abierto, avistamiento de fauna marina y servicio de alimentación a bordo.",
     coverImage:
-      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "https://marlindelrey.com/wp-content/uploads/2025/05/Catamaran-Tours-Playa-Tamarindo-image-1.webp",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Marlin+del+Rey+Catamaran+Tamarindo",
     contact: {
@@ -436,7 +436,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Alquiler de embarcación privada para diseñar una ruta náutica extendida hacia calas aisladas con paradas para baños y exploración.",
     coverImage:
-      "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a?w=800&q=80",
+      "https://marlindelrey.com/wp-content/uploads/2025/05/ml5.webp",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Marina+Flamingo+Charter+Costa+Rica",
     contact: {
@@ -455,7 +455,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Desplazamiento hacia puntos altos en las colinas de la región para observar la puesta de sol sobre el Océano Pacífico con vistas panorámicas.",
     coverImage:
-      "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&q=80",
+      "https://marlindelrey.com/wp-content/uploads/2025/05/people-swimming-beside-a-boat.webp",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Mirador+Tamarindo+Langosta+Costa+Rica",
     contact: {
@@ -512,7 +512,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Cabalgata guiada a través de caminos rurales, colinas con vistas al mar y tramos de playa en los alrededores de Tamarindo.",
     coverImage:
-      "https://images.unsplash.com/photo-1553284966-19b8815c7817?w=800&q=80",
+      "https://guachipelin.com/wp-content/uploads/sites/2085/2018/12/PLNT5945.jpg",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Horseback+Riding+Tamarindo+Guanacaste",
     contact: {
@@ -554,7 +554,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Jornada en una playa vecina reconocida por sus olas, su entorno natural virgen y su oferta de restauración costera emblemática.",
     coverImage:
-      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80",
+      "https://static.wixstatic.com/media/77f562_7cf5dd64a9054964a071c40c1c7f4812~mv2.jpeg/v1/fill/w_2500,h_1187,al_c/77f562_7cf5dd64a9054964a071c40c1c7f4812~mv2.jpeg",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Lolas+Restaurant+Playa+Avellanas+Costa+Rica",
     contact: {
@@ -630,7 +630,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Restaurante panorámico frente al mar especializado en cocina fusión y mariscos frescos. Uno de los más reconocidos de Tamarindo.",
     coverImage:
-      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+      "https://pangasbeach.com/wp-content/uploads/2025/10/Photo-by-Raw-Shoots-5-1024x683.jpg",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Pangas+Beach+Club+Tamarindo",
     contact: {
