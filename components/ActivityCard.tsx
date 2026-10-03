@@ -153,6 +153,15 @@ export default function ActivityCard({
           >
             🔗 Ver más info
           </a>
+          <a
+            href={activity.mapLink}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-3 py-2 text-center text-sm font-medium rounded-xl border border-gray-200 hover:border-blue-400 hover:text-blue-700 hover:bg-blue-50 transition-all"
+            title="Ver en Google Maps"
+          >
+            📍
+          </a>
           <button
             onClick={handleVote}
             disabled={!currentProfile || loading}
