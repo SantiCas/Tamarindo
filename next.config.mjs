@@ -10,6 +10,10 @@ const nextConfig = {
       { protocol: "https", hostname: "pangasbeach.com" },
       { protocol: "https", hostname: "static.wixstatic.com" },
       { protocol: "https", hostname: "www.laspumascr.org" },
+      { protocol: "https", hostname: "www.skylinecanopytour.com" },
+      { protocol: "https", hostname: "www.tamarindoestuary.com" },
+      { protocol: "https", hostname: "www.rioperdido.com" },
+      { protocol: "https", hostname: "cdn.zyrosite.com" },
     ],
   },
 };

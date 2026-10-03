@@ -47,7 +47,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Desplazamiento por cables de acero suspendidos sobre las copas de los árboles y cañones boscosos en parques de aventura especializados.",
     coverImage:
-      "https://guachipelin.com/wp-content/uploads/sites/2085/2024/09/DJI_20240519162807_0462_D-Enhanced-NR.jpg",
+      "https://www.skylinecanopytour.com/home/cover.webp",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Tamarindo+Canopy+Tour+Costa+Rica",
     mapLink:
@@ -68,7 +68,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Navegación fluvial individual a bordo de flotadores especiales a través de tramos de rápidos y corrientes en cañones volcánicos. Operado por Hacienda Guachipelín.",
     coverImage:
-      "https://guachipelin.com/wp-content/uploads/sites/2085/2019/09/NK8_1200.jpg",
+      "https://www.guachipelin.com/wp-content/uploads/sites/2085/2018/12/Rio-Negro-Tubing-Adventure-image-1.jpg",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Hacienda+Guachipelin+Rincon+de+la+Vieja",
     mapLink:
@@ -219,7 +219,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Desplazamiento hacia la zona norte para realizar una caminata por los senderos del volcán y observar el fenómeno de tonalidad turquesa en el río y su cascada principal.",
     coverImage:
-      "https://images.unsplash.com/photo-1594166245695-1729cc2be3c7?w=800&q=80",
+      "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=800&q=80",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Rio+Celeste+Parque+Nacional+Volcan+Tenorio",
     mapLink:
@@ -261,7 +261,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Inmersión en complejos de piscinas naturales de aguas geotérmicas y aplicación de lodo volcánico mineral en las faldas del Rincón de la Vieja.",
     coverImage:
-      "https://guachipelin.com/wp-content/uploads/sites/2085/2025/05/DSC_6487.jpg",
+      "https://www.rioperdido.com/thumb/sizeW1920/uploads/2s/cms_image/001/535/060/1535060019_5b7f28334c2a6-thumb.jpg",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Hacienda+Guachipelin+Rincon+de+la+Vieja",
     mapLink:
@@ -303,7 +303,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Viaje por carretera explorando pueblos costeros, calas de arena blanca y formaciones geográficas de doble media luna en la Península de Nicoya.",
     coverImage:
-      "https://marlindelrey.com/wp-content/uploads/2025/05/Girls-on-the-bow.webp",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&q=80",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Playa+Samara+Nicoya+Costa+Rica",
     mapLink:
@@ -370,7 +370,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Recorrido en embarcación por los manglares de Tamarindo para el avistamiento de aves, reptiles y monos aulladores en su entorno natural.",
     coverImage:
-      "https://guachipelin.com/wp-content/uploads/sites/2085/2020/07/Pajaros.jpg",
+      "https://www.tamarindoestuary.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-23-at-6.23.31-PM-2.jpeg",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Parque+Nacional+Las+Baulas+Tamarindo",
     mapLink:
@@ -391,7 +391,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Recorrido guiado por personal autorizado en el Parque Nacional Las Baulas para presenciar los procesos de anidación de tortugas marinas leatherback.",
     coverImage:
-      "https://images.unsplash.com/photo-1599420186946-7b6fb4e297f0?w=800&q=80",
+      "https://cdn.zyrosite.com/cdn-ecommerce/store_01M23N35Q8T61X2TBJ4221YWFE/assets/3501e9d6-ca82-463d-8923-233469a81176.jpg",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Playa+Grande+Parque+Las+Baulas+Costa+Rica",
     mapLink:
@@ -563,7 +563,7 @@ export const ACTIVITIES: Activity[] = [
     description:
       "Cabalgata guiada a través de caminos rurales, colinas con vistas al mar y tramos de playa en los alrededores de Tamarindo.",
     coverImage:
-      "https://guachipelin.com/wp-content/uploads/sites/2085/2018/12/PLNT5945.jpg",
+      "https://nativeswaycostarica.com/wp-content/uploads/2018/09/image-1.jpg",
     infoLink:
       "https://www.google.com/maps/search/?api=1&query=Horseback+Riding+Tamarindo+Guanacaste",
     mapLink:
